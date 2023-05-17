@@ -1,4 +1,4 @@
-# SDA-comaring-two-cellular-plans
+# SDA-comparing-two-cellular-plans
 Statistical Data Analysis for two cellular plans of Megaline carrier.  
 The Megaline company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more 
 revenue in order to adjust the advertising budget.
